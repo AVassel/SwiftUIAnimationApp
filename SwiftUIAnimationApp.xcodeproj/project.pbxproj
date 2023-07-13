@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E39489B2A348F38005B48B3 /* BlinkingMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E39489A2A348F38005B48B3 /* BlinkingMod.swift */; };
 		3EE059922A275D2300E4924F /* SwiftUIAnimationAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059912A275D2300E4924F /* SwiftUIAnimationAppApp.swift */; };
-		3EE059942A275D2300E4924F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059932A275D2300E4924F /* ContentView.swift */; };
 		3EE059962A275D2500E4924F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EE059952A275D2500E4924F /* Assets.xcassets */; };
 		3EE059992A275D2500E4924F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EE059982A275D2500E4924F /* Preview Assets.xcassets */; };
+		3EE059A22A27A37E00E4924F /* StarterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059A12A27A37E00E4924F /* StarterView.swift */; };
+		3EE059A42A27A3AD00E4924F /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059A32A27A3AD00E4924F /* MainView.swift */; };
+		3EE059A72A27A45200E4924F /* AwardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059A62A27A45200E4924F /* AwardsView.swift */; };
+		3EE059A92A27A5F400E4924F /* GradientRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059A82A27A5F400E4924F /* GradientRectangle.swift */; };
+		3EE059AB2A27CB9B00E4924F /* PathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059AA2A27CB9B00E4924F /* PathView.swift */; };
+		3EE059AD2A27D3AE00E4924F /* CurveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059AC2A27D3AE00E4924F /* CurveView.swift */; };
+		3EE059B02A29DA2800E4924F /* CustomGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059AF2A29DA2800E4924F /* CustomGridView.swift */; };
+		3EE059B22A29E29500E4924F /* Award.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059B12A29E29500E4924F /* Award.swift */; };
+		3EE059B42A29EBE300E4924F /* VerticalGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059B32A29EBE300E4924F /* VerticalGridView.swift */; };
+		3EE059B82A2A35DE00E4924F /* HorizontalGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE059B72A2A35DE00E4924F /* HorizontalGridView.swift */; };
+		3EEE0BAA2A2E11BB004C40C9 /* DarkAngelsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEE0BA92A2E11BB004C40C9 /* DarkAngelsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E39489A2A348F38005B48B3 /* BlinkingMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlinkingMod.swift; sourceTree = "<group>"; };
 		3EE0598E2A275D2300E4924F /* SwiftUIAnimationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EE059912A275D2300E4924F /* SwiftUIAnimationAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimationAppApp.swift; sourceTree = "<group>"; };
-		3EE059932A275D2300E4924F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3EE059952A275D2500E4924F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EE059982A275D2500E4924F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3EE059A12A27A37E00E4924F /* StarterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterView.swift; sourceTree = "<group>"; };
+		3EE059A32A27A3AD00E4924F /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		3EE059A62A27A45200E4924F /* AwardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardsView.swift; sourceTree = "<group>"; };
+		3EE059A82A27A5F400E4924F /* GradientRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientRectangle.swift; sourceTree = "<group>"; };
+		3EE059AA2A27CB9B00E4924F /* PathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathView.swift; sourceTree = "<group>"; };
+		3EE059AC2A27D3AE00E4924F /* CurveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveView.swift; sourceTree = "<group>"; };
+		3EE059AF2A29DA2800E4924F /* CustomGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomGridView.swift; sourceTree = "<group>"; };
+		3EE059B12A29E29500E4924F /* Award.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Award.swift; sourceTree = "<group>"; };
+		3EE059B32A29EBE300E4924F /* VerticalGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalGridView.swift; sourceTree = "<group>"; };
+		3EE059B72A2A35DE00E4924F /* HorizontalGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalGridView.swift; sourceTree = "<group>"; };
+		3EEE0BA92A2E11BB004C40C9 /* DarkAngelsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkAngelsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +54,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3E39489C2A348FAC005B48B3 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				3E39489A2A348F38005B48B3 /* BlinkingMod.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
 		3EE059852A275D2300E4924F = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +82,10 @@
 			isa = PBXGroup;
 			children = (
 				3EE059912A275D2300E4924F /* SwiftUIAnimationAppApp.swift */,
-				3EE059932A275D2300E4924F /* ContentView.swift */,
 				3EE059952A275D2500E4924F /* Assets.xcassets */,
+				3EE059A52A27A3B800E4924F /* Views */,
+				3EE059AE2A29DA0200E4924F /* Grids */,
+				3E39489C2A348FAC005B48B3 /* Modifiers */,
 				3EE059972A275D2500E4924F /* Preview Content */,
 			);
 			path = SwiftUIAnimationApp;
@@ -65,6 +97,31 @@
 				3EE059982A275D2500E4924F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3EE059A52A27A3B800E4924F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3EE059A32A27A3AD00E4924F /* MainView.swift */,
+				3EE059A12A27A37E00E4924F /* StarterView.swift */,
+				3EE059A62A27A45200E4924F /* AwardsView.swift */,
+				3EE059A82A27A5F400E4924F /* GradientRectangle.swift */,
+				3EE059AA2A27CB9B00E4924F /* PathView.swift */,
+				3EE059AC2A27D3AE00E4924F /* CurveView.swift */,
+				3EEE0BA92A2E11BB004C40C9 /* DarkAngelsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3EE059AE2A29DA0200E4924F /* Grids */ = {
+			isa = PBXGroup;
+			children = (
+				3EE059AF2A29DA2800E4924F /* CustomGridView.swift */,
+				3EE059B12A29E29500E4924F /* Award.swift */,
+				3EE059B32A29EBE300E4924F /* VerticalGridView.swift */,
+				3EE059B72A2A35DE00E4924F /* HorizontalGridView.swift */,
+			);
+			path = Grids;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +194,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3EE059942A275D2300E4924F /* ContentView.swift in Sources */,
+				3EE059AD2A27D3AE00E4924F /* CurveView.swift in Sources */,
+				3EE059B82A2A35DE00E4924F /* HorizontalGridView.swift in Sources */,
+				3EEE0BAA2A2E11BB004C40C9 /* DarkAngelsView.swift in Sources */,
+				3EE059B22A29E29500E4924F /* Award.swift in Sources */,
+				3EE059B42A29EBE300E4924F /* VerticalGridView.swift in Sources */,
+				3EE059A22A27A37E00E4924F /* StarterView.swift in Sources */,
+				3E39489B2A348F38005B48B3 /* BlinkingMod.swift in Sources */,
+				3EE059AB2A27CB9B00E4924F /* PathView.swift in Sources */,
+				3EE059A92A27A5F400E4924F /* GradientRectangle.swift in Sources */,
+				3EE059A72A27A45200E4924F /* AwardsView.swift in Sources */,
+				3EE059A42A27A3AD00E4924F /* MainView.swift in Sources */,
 				3EE059922A275D2300E4924F /* SwiftUIAnimationAppApp.swift in Sources */,
+				3EE059B02A29DA2800E4924F /* CustomGridView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
